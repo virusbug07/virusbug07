@@ -35,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virusbug07&show_icons=true&locale=en" alt="virusbug07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virusbug07&" alt="virusbug07" /></p>
+
+## Snake eating my contribution graph
+![snake gif](https://github.com/virusbug07/virusbug07/blob/output/github-contribution-grid-snake.gif)
