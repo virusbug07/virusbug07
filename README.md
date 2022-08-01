@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h3 align="center">A aspiring Blockchain Developer & Cyber Security Enthusiast from India</h3>
+<h3 align="center">An aspiring Blockchain Developer & Cyber Security Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virusbug07&label=Profile%20views&color=0e75b6&style=flat" alt="virusbug07" /> </p>
