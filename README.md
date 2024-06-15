@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h3 align="center">An Passionate Blockchain Developer & Cyber Security Enthusiast from India</h3>
+<h3 align="center">An Passionate Software Developer & Cyber Security Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virusbug07&label=Profile%20views&color=0e75b6&style=flat" alt="virusbug07" /> </p>
@@ -13,15 +13,13 @@
 
 <p align="left"> <a href="https://twitter.com/_virusbug_" target="blank"><img src="https://img.shields.io/twitter/follow/_virusbug_?logo=twitter&style=for-the-badge" alt="_virusbug_" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain Based Authentication system solution in webapps**
+- 🔭 I’m currently working as **DevOps Engineer**
 
-- 🌱 I’m currently learning **Solidity,Web3js,React.js**
+- 🌱 I’m currently learning **React.js & Node Js**
 
-- 💬 Ask me about **Cyber Security, Smart Contracts, Blockchain**
+- 💬 Ask me about **Cyber Security, DevOps,MERN**
 
 - 📫 How to reach me **dashutosh404@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WEF6-yAzKz8a-l-ws8IeckAOjPPlTo3E/view?usp=sharing](https://drive.google.com/file/d/1WEF6-yAzKz8a-l-ws8IeckAOjPPlTo3E/view?usp=sharing)
 
 - ⚡ Fun fact **I love to do photography & of course chai**
 
